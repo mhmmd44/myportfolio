@@ -16,8 +16,8 @@ const skills = () => {
         <div className="skillBar">
           <img src={UIDesign} alt="UIDesign" className="skillBarImmg" />
           <div className="skillBarText">
-            <h2></h2>
-            <p></p>
+            <h2>UI/UX Design</h2>
+            <p>This is a demo text</p>
           </div>
         </div>
         <div className="skillBar">
